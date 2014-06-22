@@ -1,11 +1,12 @@
 ##This the code book detailing variable names of TidyData vaiable
 ###TidyData is the end result of the run_analysis.R script
 
-*SubjectId
+####SubjectId
 
 This is the a list of Id numbers going from 1 thru 30, given to each participant
 
-*Activity
+
+####Activity
 
 This is a list of possible 6 activities performed by the participants. As follows:
 
@@ -22,7 +23,8 @@ This is a list of possible 6 activities performed by the participants. As follow
 6=LAYING
 
 
-*Feature
+
+####Feature
 
 This is a list of 66 possible features associated with each activity. As follows:
 
@@ -158,6 +160,7 @@ fBodyBodyGyroJerkMag-mean()
 
 fBodyBodyGyroJerkMag-std()
 
-*AverageValue gives the average of each feature of the activity of each subject.
+
+####AverageValue gives the average of each feature of the activity of each subject.
 
 
