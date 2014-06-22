@@ -161,6 +161,8 @@ fBodyBodyGyroJerkMag-mean()
 fBodyBodyGyroJerkMag-std()
 
 
-####AverageValue gives the average of each feature of the activity of each subject.
+####AverageValue 
+
+This gives the average of each feature of the activity of each subject.
 
 
